@@ -13,5 +13,5 @@
 <p> Python with base of all, with Pandas, Matplotlib, Seaborn and Piktochart to design</p>
 
 <h2>Publication</h2>
-<p> My Publication on <a href="">LinkDin</a></p>
+<p> My Publication on <a href="https://www.linkedin.com/posts/diegopolettomayer_datascience-dataanalysis-python-activity-6680798253857988608-fQqt">LinkDin</a></p>
 <p> My Publication on <a href="">MyPortfolio</a></p>
